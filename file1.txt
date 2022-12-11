@@ -1,1 +1,3 @@
+feature text is added
 file1 added with some text.
+
