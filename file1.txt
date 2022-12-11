@@ -1,2 +1,2 @@
-hello
+hello friend
 file1 added with some text.
