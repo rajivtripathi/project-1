@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 feature text is added
+=======
+hello
+>>>>>>> origin/master
 file1 added with some text.
 
